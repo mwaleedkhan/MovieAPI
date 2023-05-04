@@ -1,30 +1,43 @@
 [
- 	"Movies": [ {
-		"id": 1,
-		"title": "The Shawshank Redemption",
-		"genre": "Drama",
-		"releaseDate": "1994-09-22",
-		"description": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency."
-	},
-	{
-		"id": 2,
-		"title": "The Godfather",
-		"genre": "Crime, Drama",
-		"releaseDate": "1972-03-24",
-		"description": "The aging patriarch of an organized crime dynasty transfers control of his clandesƟne empire to his reluctant son."
-	},
-	{
-		"id": 3,
-		"title": "Pulp Fiction",
-		"genre": "Crime, Drama",
-		"releaseDate": "1994-10-14",
-		"description": "The lives of two mob hitmen, a boxer, a gangster's wife, and a pair of diner bandits intertwine in four tales of violence and redemption."
-	},
-	{
-		"id": 4,
-		"title": "The Legend of Maula Jutt",
-		"genre": "Thriller",
-		"releaseDate": "2022-10-14",
-		"description": "Its a story about the decades long conflict between Sardar Jutt and Nath Family ."
-	} ]
+    {
+        "ID": "1",
+        "Title": "Shaw Shank Redemption",
+        "Genre": "Drama",
+        "releaseDate": "1994-09-22",
+        "Description": "Two imprisoned men bond over a number of years, finding solace and eventual\nredemption through acts of common decency.",
+        "": ""
+    },
+    {
+        "ID": "2",
+        "Title": "The Legend of Maulla Jutt",
+        "Genre": "Thriller",
+        "releaseDate": "2022-08-22",
+        "Description": "Nath and Jutts",
+        "": ""
+    },
+    {
+        "ID": "3",
+        "Title": "The Great Gatsby",
+        "Genre": "Mystery ",
+        "releaseDate": "2017-08-22",
+        "Description": "DiCaprio",
+        "": ""
+    },
+    {
+        "ID": "4",
+        "Title": "The Great Gatsby",
+        "Genre": "Mystery ",
+        "releaseDate": "2017-08-22",
+        "Description": "DiCaprio",
+        "": ""
+    },
+    {
+        "ID": "5",
+        "Title": "The Legend of Maulla Jutt",
+        "Genre": "Thriller",
+        "releaseDate": "2022-08-22",
+        "Description": "Nath and Jutts",
+        "": null
+    },
+ 
 ]
