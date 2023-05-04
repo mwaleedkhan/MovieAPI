@@ -19,5 +19,12 @@
 		"genre": "Crime, Drama",
 		"releaseDate": "1994-10-14",
 		"description": "The lives of two mob hitmen, a boxer, a gangster's wife, and a pair of diner bandits intertwine in four tales of violence and redemption."
+	},
+	{
+		"id": 4,
+		"title": "The Legend of Maula Jutt",
+		"genre": "Thriller",
+		"releaseDate": "2022-10-14",
+		"description": "Its a story about the decades long conflict between Sardar Jutt and Nath Family ."
 	}
 ]
