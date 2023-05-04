@@ -1,5 +1,5 @@
 [
- 	"Movies": {
+ 	"Movies": [ {
 		"id": 1,
 		"title": "The Shawshank Redemption",
 		"genre": "Drama",
@@ -26,5 +26,5 @@
 		"genre": "Thriller",
 		"releaseDate": "2022-10-14",
 		"description": "Its a story about the decades long conflict between Sardar Jutt and Nath Family ."
-	}
+	} ]
 ]
