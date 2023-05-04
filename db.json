@@ -1,38 +1,36 @@
-[
-    {
-        "ID": "1",
-        "Title": "Shaw Shank Redemption",
-        "Genre": "Drama",
-        "releaseDate": "1994-09-22",
-        "Description": "Two imprisoned men bond over a number of years, finding solace and eventual\nredemption through acts of common decency."
-    },
-    {
-        "ID": "2",
-        "Title": "The Legend of Maulla Jutt",
-        "Genre": "Thriller",
-        "releaseDate": "2022-08-22",
-        "Description": "Nath and Jutts"
-    },
-    {
-        "ID": "3",
-        "Title": "The Great Gatsby",
-        "Genre": "Mystery ",
-        "releaseDate": "2017-08-22",
-        "Description": "DiCaprio"
-    },
-    {
-        "ID": "4",
-        "Title": "The Great Gatsby",
-        "Genre": "Mystery ",
-        "releaseDate": "2017-08-22",
-        "Description": "DiCaprio"
-    },
-    {
-        "ID": "5",
-        "Title": "The Legend of Maulla Jutt",
-        "Genre": "Thriller",
-        "releaseDate": "2022-08-22",
-        "Description": "Nath and Jutts"
-    },
- 
+[{
+		"ID": "1",
+		"Title": "Shaw Shank Redemption",
+		"Genre": "Drama",
+		"releaseDate": "1994-09-22",
+		"Description": "Two imprisoned men bond over a number of years, finding solace and eventual\nredemption through acts of common decency."
+	},
+	{
+		"ID": "2",
+		"Title": "The Legend of Maulla Jutt",
+		"Genre": "Thriller",
+		"releaseDate": "2022-08-22",
+		"Description": "Nath and Jutts"
+	},
+	{
+		"ID": "3",
+		"Title": "The Great Gatsby",
+		"Genre": "Mystery ",
+		"releaseDate": "2017-08-22",
+		"Description": "DiCaprio"
+	},
+	{
+		"ID": "4",
+		"Title": "The Great Gatsby",
+		"Genre": "Mystery ",
+		"releaseDate": "2017-08-22",
+		"Description": "DiCaprio"
+	},
+	{
+		"ID": "5",
+		"Title": "The Legend of Maulla Jutt",
+		"Genre": "Thriller",
+		"releaseDate": "2022-08-22",
+		"Description": "Nath and Jutts"
+	}
 ]
